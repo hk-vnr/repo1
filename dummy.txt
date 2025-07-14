@@ -1,1 +1,3 @@
-This is dummy and my first git activity
+This is dummy and my first git activity 
+
+made a change
