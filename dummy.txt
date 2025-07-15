@@ -1,3 +1,5 @@
 This is dummy and my first git activity 
 made a change
 Added a new line
+Branch1
+Branch2
