@@ -6,3 +6,5 @@ Branch2
 This is another important line
 change1
 change4
+change2
+
